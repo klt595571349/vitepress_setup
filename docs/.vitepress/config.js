@@ -1,20 +1,10 @@
 export default {
-  title: "kittyui", //站点标题
-  description: "一个vue3组件库", //mate标签description，多用于搜索引擎抓取摘要
+  title: "xxx", //站点标题
+  description: "随笔", //mate标签description，多用于搜索引擎抓取摘要
   themeConfig: {
-    siteTitle: "Kitty",
+    siteTitle: "jiacheng",
     logo: "/logo.png",
-    socialLinks: [
-      { icon: "github", link: "https://gitee.com/geeksdidi" },
-      { icon: "twitter", link: "..." },
-      // You can also add custom icons by passing SVG as string:
-      {
-        icon: {
-          svg: '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dribbble</title><path d="M12...6.38z"/></svg>',
-        },
-        link: "...",
-      },
-    ],
+    socialLinks: [{ icon: "github", link: "https://gitee.com/geeksdidi" }],
     nav: [
       { text: "博客", link: "/articles/组件库环境搭建" },
       { text: "GuideTest", link: "/guide/test" },
@@ -40,18 +30,18 @@ export default {
     sidebar: {
       "/articles/": [
         {
-          text: "组件库源码实现",
+          text: "组件库源码实现1",
           collapsible: true,
           items: [
             {
-              text: "组件库环境搭建",
+              text: "组件库环境搭建2",
               link: "/articles/组件库环境搭建",
             },
             { text: "gulp的使用", link: "/articles/gulp的使用" },
           ],
         },
         {
-          text: "vue教程",
+          text: "vue教程3",
           collapsible: true,
           collapsed: true,
           items: [

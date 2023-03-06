@@ -358,7 +358,7 @@ exports.default = browserTask;
 
 ## 最后
 
-后面我会将正在开发的vue3组件库的样式打包部分使用gulp处理，如果你对组件库开发感兴趣的话可以关注[Vite+TypeScript从零搭建Vue3组件库 - 东方小月的专栏 - 掘金 (juejin.cn)](https://juejin.cn/column/7118932817119019015 "https://juejin.cn/column/7118932817119019015")，后续会实现一些常用组件，并以文章形式呈现。
+后面我会将正在开发的vue3组件库的样式打包部分使用gulp处理，如果你对组件库开发感兴趣的话可以关注[Vite+TypeScript从零搭建Vue3组件库 - 东方小月的专栏 - 掘金 (juejin.cn)](https://juejin.cn/column/xxxxxx "https://juejin.cn/column/xxxxxx")，后续会实现一些常用组件，并以文章形式呈现。
 
 > 创作不易，你的点赞就是我的动力！如果感觉这篇文章对你有帮助的话就请点个赞吧，感谢~
 
