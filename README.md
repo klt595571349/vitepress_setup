@@ -1,4 +1,4 @@
-xmall 商城项目
+vitepress_setup
 
 ```sh
 pnpm i
